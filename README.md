@@ -1,1 +1,1 @@
-1. Hello, hi, 
+1. Hello, hi, deleted new_branch
